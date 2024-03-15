@@ -12,7 +12,7 @@ export default defineConfig({
         name: "Todo App (PWA)",
         short_name: "Todo",
         description: "Todo プログレッシブ・ウェブアプリ",
-        id: "/todo/",
+        id: "/todo-pwa/",
         start_url: ".",
         display: "standalone",
         orientation: "portrait",
